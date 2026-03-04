@@ -1,6 +1,6 @@
 # Codewars Lógica
 
-Este repositório contém soluções de exercícios de lógica e algoritmos do [Codewars](https://www.codewars.com/), organizadas por linguagem de programação. O objetivo é registrar meu aprendizado, praticar raciocínio lógico e criar referência pessoal para consultas futuras.
+Este repositório contém soluções de exercicios de lógica e algoritmos do [Codewars](https://www.codewars.com/), organizadas por linguagem de programação. O objetivo é registrar meu aprendizado, praticar raciocínio lógico e criar referência pessoal para consultas futuras.
 
 ## Estrutura do repositório
 

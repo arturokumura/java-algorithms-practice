@@ -3,7 +3,7 @@
 // Problem: Enumerable Magic #1 - True for All?
 
 
-package exercícios;
+package exercicios;
 import java.util.function.IntPredicate;
 
 public class exercicio1 {
