@@ -1,6 +1,6 @@
 // Platform: Codewars
 // Difficulty: 7kyu
-// Problem: Search for letters
+// Problem: Square Every Digit
 
 package exercicios;
 

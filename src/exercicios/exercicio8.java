@@ -1,7 +1,8 @@
 
 // Platform: Codewars
 // Difficulty: 7kyu
-// Problem:
+// Problem: Search for letters
+
 
 package exercicios;
 
