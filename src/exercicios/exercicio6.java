@@ -1,0 +1,14 @@
+// Platform: Codewars
+// Difficulty: 7kyu
+// Problem: Credit Card Mask
+
+package exercicios;
+
+public class exercicio6 {
+    public static String maskify(String str) {
+        if (str.length() <= 4) return str;
+
+        int corte = str.length() - 4;
+        return "#".repeat(corte) + str.substring(corte);
+    }
+}
