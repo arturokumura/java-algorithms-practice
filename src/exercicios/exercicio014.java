@@ -1,6 +1,6 @@
 package exercicios;
 
-public class exercicio14 {
+public class exercicio014 {
     public static int[] minMax(int[] arr) {
         int max =arr[0];
         int min= arr[0];

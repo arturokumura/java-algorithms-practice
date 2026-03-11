@@ -6,7 +6,7 @@ package exercicios;
 
 import java.util.Arrays;
 
-public class exercicio10 {
+public class exercicio010 {
     public static String[][] partlist(String[] arr) {
         // Criamos a matriz que armazenará o resultado
         // Teremos arr.length - 1 divisões possíveis

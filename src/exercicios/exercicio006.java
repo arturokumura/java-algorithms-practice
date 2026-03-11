@@ -4,7 +4,7 @@
 
 package exercicios;
 
-public class exercicio6 {
+public class exercicio006 {
     public static String maskify(String str) {
         if (str.length() <= 4) return str;
 

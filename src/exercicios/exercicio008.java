@@ -8,7 +8,7 @@ package exercicios;
 
 import java.util.stream.IntStream;
 
-public class exercicio8 {
+public class exercicio008 {
     public static String search(String line){
 
         String lower = line.toLowerCase();

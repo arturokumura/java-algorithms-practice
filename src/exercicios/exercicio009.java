@@ -6,7 +6,7 @@ package exercicios;
 
 import java.util.Scanner;
 
-public class exercicio9 {
+public class exercicio009 {
     public int adjacentElementsProduct(int[] array) {
     int maior = array[0] * array[1];
 

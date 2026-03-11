@@ -3,7 +3,7 @@
 // Problem: remove BMW
 package exercicios;
 
-public class exercicio16 {
+public class exercicio016 {
     public static String removeBMW(Object input) {
         if (!(input instanceof String)) {
             throw new IllegalArgumentException("This program only works for text.");

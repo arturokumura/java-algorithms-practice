@@ -3,7 +3,7 @@
 // Problem: Sum of Arrays
 package exercicios;
 
-public class exercicio15 {
+public class exercicio015 {
     public static double sum(double[] numbers) {
         if(numbers.length == 0) {
             return 0;

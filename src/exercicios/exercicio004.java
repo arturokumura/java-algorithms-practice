@@ -4,7 +4,7 @@
 
 package exercicios;
 
-public class exercicio4 {
+public class exercicio004 {
     public static boolean isValid(char[] walk) {
         if (walk.length != 10) return false;
 

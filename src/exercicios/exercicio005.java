@@ -6,7 +6,7 @@ package exercicios;
 
 import java.util.Scanner;
 
-public class exercicio5 {
+public class exercicio005 {
         public static double gravitationalForce(double[] arr_val, String[] arr_unit) {
             final double G = 6.67e-11; // N·m²/kg²
 

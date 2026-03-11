@@ -5,7 +5,7 @@
 
 package exercicios;
 import java.util.Arrays;
-public class exercicio3 {
+public class exercicio003 {
     public static int sortDesc(final int num) {
 
         char[] digits = String.valueOf(num).toCharArray();

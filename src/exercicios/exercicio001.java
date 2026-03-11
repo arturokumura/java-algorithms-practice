@@ -6,7 +6,7 @@
 package exercicios;
 import java.util.function.IntPredicate;
 
-public class exercicio01 {
+public class exercicio001 {
     public static boolean all(int[] list, IntPredicate predicate){
         for (int number : list) {
             if (!predicate.test(number)) {

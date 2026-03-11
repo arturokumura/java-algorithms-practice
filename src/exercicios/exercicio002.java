@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 
-public class exercicio2 {
+public class exercicio002 {
     public static List<Object> filterList(final List<Object> list) {
 
         return list.stream()

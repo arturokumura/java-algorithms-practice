@@ -3,7 +3,7 @@
 // Problem: Get the middle character
 package exercicios;
 
-public class exercicio12 {
+public class exercicio012 {
     public static String getMiddle(String word) {
         int meio = word.length() / 2;
 

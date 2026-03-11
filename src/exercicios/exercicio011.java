@@ -4,7 +4,7 @@
 
 package exercicios;
 
-public class exercicio11 {
+public class exercicio011 {
     public static Double calculate(final double a, final String operator, final double b) {
         switch(operator) {
             case("+") :

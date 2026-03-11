@@ -4,7 +4,7 @@
 
 package exercicios;
 
-public class exercicio7 {
+public class exercicio007 {
     public int squareDigits(int n) {
         return Integer.parseInt(
                 String.valueOf(n)

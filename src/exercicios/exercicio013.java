@@ -5,7 +5,7 @@
 
 package exercicios;
 
-public class exercicio13 {
+public class exercicio013 {
 
 public static boolean check(Object[] a, Object x) {
     for (Object obj : a) {
