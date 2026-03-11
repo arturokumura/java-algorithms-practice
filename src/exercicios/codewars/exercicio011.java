@@ -2,7 +2,7 @@
 // Difficulty: 7kyu
 // Problem: Basic calculator
 
-package exercicios;
+package exercicios.codewars;
 
 public class exercicio011 {
     public static Double calculate(final double a, final String operator, final double b) {

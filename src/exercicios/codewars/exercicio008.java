@@ -4,7 +4,7 @@
 // Problem: Search for letters
 
 
-package exercicios;
+package exercicios.codewars;
 
 import java.util.stream.IntStream;
 

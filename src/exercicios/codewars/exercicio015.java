@@ -1,7 +1,7 @@
 // Platform: Codewars
 // Difficulty: 8kyu
 // Problem: Sum of Arrays
-package exercicios;
+package exercicios.codewars;
 
 public class exercicio015 {
     public static double sum(double[] numbers) {

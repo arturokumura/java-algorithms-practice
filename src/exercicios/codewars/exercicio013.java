@@ -3,7 +3,7 @@
 // Problem: "You only need one - Beginner"
 
 
-package exercicios;
+package exercicios.codewars;
 
 public class exercicio013 {
 

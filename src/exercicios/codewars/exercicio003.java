@@ -3,7 +3,7 @@
 // Problem: Descending Order
 
 
-package exercicios;
+package exercicios.codewars;
 import java.util.Arrays;
 public class exercicio003 {
     public static int sortDesc(final int num) {

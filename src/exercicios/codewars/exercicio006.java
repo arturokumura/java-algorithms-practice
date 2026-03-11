@@ -2,7 +2,7 @@
 // Difficulty: 7kyu
 // Problem: Credit Card Mask
 
-package exercicios;
+package exercicios.codewars;
 
 public class exercicio006 {
     public static String maskify(String str) {

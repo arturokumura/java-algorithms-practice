@@ -2,7 +2,7 @@
 // Difficulty: 7kyu
 // Problem: Take a Ten Minutes Walk
 
-package exercicios;
+package exercicios.codewars;
 
 public class exercicio004 {
     public static boolean isValid(char[] walk) {

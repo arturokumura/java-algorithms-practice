@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.codewars;
 
 public class exercicio014 {
     public static int[] minMax(int[] arr) {

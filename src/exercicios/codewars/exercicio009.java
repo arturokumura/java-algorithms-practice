@@ -2,9 +2,7 @@
 // Difficulty: 7kyu
 // Problem: Maximum product
 
-package exercicios;
-
-import java.util.Scanner;
+package exercicios.codewars;
 
 public class exercicio009 {
     public int adjacentElementsProduct(int[] array) {

@@ -1,7 +1,7 @@
 // Platform: Codewars
 // Difficulty: 7kyu
 // Problem: Get the middle character
-package exercicios;
+package exercicios.codewars;
 
 public class exercicio012 {
     public static String getMiddle(String word) {

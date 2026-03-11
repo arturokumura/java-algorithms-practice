@@ -2,7 +2,7 @@
 // Difficulty: 8kyu
 // Problem: Separar conjuntos de pares/impares de um array
 
-package exercicios;
+package exercicios.codewars;
 
 import java.util.*;
 

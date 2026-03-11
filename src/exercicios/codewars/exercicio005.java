@@ -2,9 +2,7 @@
 // Difficulty: 8kyu
 // Problem: Find the force of gravity between two objects
 
-package exercicios;
-
-import java.util.Scanner;
+package exercicios.codewars;
 
 public class exercicio005 {
         public static double gravitationalForce(double[] arr_val, String[] arr_unit) {

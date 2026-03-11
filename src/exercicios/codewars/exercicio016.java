@@ -1,7 +1,7 @@
 // Platform: Codewars
 // Difficulty: 8kyu
 // Problem: remove BMW
-package exercicios;
+package exercicios.codewars;
 
 public class exercicio016 {
     public static String removeBMW(Object input) {

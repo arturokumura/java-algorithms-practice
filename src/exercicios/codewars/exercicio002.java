@@ -2,7 +2,7 @@
 // Difficulty: 7kyu
 // Problem: List Filtering
 
-package exercicios;
+package exercicios.codewars;
 import java.util.List;
 import java.util.stream.Collectors;
 

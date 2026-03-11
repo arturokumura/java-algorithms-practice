@@ -2,7 +2,7 @@
 // Difficulty: 7kyu
 // Problem: Square Every Digit
 
-package exercicios;
+package exercicios.codewars;
 
 public class exercicio007 {
     public int squareDigits(int n) {

@@ -2,7 +2,7 @@
 // Difficulty: 7kyu
 // Problem: Parts of List
 
-package exercicios;
+package exercicios.codewars;
 
 import java.util.Arrays;
 
